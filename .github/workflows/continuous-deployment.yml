@@ -20,7 +20,7 @@ on:
   push:
     branches:
       - master
-      - develop
+      - staging
 
 env:
   AZURE_WEBAPP_NAME_STAGING: a368604    # set this to your application's name
